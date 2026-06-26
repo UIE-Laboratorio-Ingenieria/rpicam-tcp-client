@@ -80,4 +80,6 @@ pytest --cov    # run with coverage report
 
 ## Questions
 
-Open an [issue](https://github.com/PabloTarrio/rpicam-tcp-client/issues) if you have any questions or suggestions.
+This project is maintained by the **Laboratorio de Ingeniería de la UIE Universidad Intercontinental de la Empresa**.
+
+Open an [issue](https://github.com/UIE-Laboratorio-Ingenieria/rpicam-tcp-client/issues) if you have any questions or suggestions.
