@@ -1,10 +1,10 @@
 # rpicam-tcp-client
 
 [![PyPI version](https://badge.fury.io/py/rpicam-tcp-client.svg)](https://pypi.org/project/rpicam-tcp-client/)
-[![CI](https://github.com/PabloTarrio/rpicam-tcp-client/actions/workflows/ci.yml/badge.svg)](https://github.com/PabloTarrio/rpicam-tcp-client/actions/workflows/ci.yml)
+[![CI](https://github.com/UIE-Laboratorio-Ingenieria/rpicam-tcp-client/actions/workflows/ci.yml/badge.svg)](https://github.com/UIE-Laboratorio-Ingenieria/rpicam-tcp-client/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Coverage](https://img.shields.io/badge/coverage-98%25-brightgreen)](https://github.com/PabloTarrio/rpicam-tcp-client/actions)
+[![Coverage](https://img.shields.io/badge/coverage-98%25-brightgreen)](https://github.com/UIE-Laboratorio-Ingenieria/rpicam-tcp-client/actions)
 
 Librería Python para acceder remotamente a la **Raspberry Pi Camera Module 2 NoIR**
 mediante TCP.
@@ -22,6 +22,9 @@ mediante TCP.
 - **Tests** - 98% pytest con mocks (sin RPI real)
 
 ---
+## Proyecto del laboratorio
+
+Este proyecto es desarrollado y mantenido por el **Laboratorio de Ingeniería de la UIE Universidad Intercontinental de la Empresa**, y se utiliza en actividades de docencia e investigación con Raspberry Pi y visión artificial.
 
 ## Requisitos
 
@@ -47,7 +50,7 @@ pip install rpicam-tcp-client
 ### Desde el código fuente (desarrollo)
 **Cliente (PC)**
 ```bash
-git clone https://github.com/PabloTarrio/rpicam-tcp-client.git
+git clone https://github.com/UIE-Laboratorio-Ingenieria/rpicam-tcp-client.git
 cd rpicam-tcp-client
 pip install -e .
 ```

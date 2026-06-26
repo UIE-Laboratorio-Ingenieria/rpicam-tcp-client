@@ -96,3 +96,6 @@ y este proyecto sigue [Semantic Versioning](https://semver.org/lang/es/).
 - Workflow de GitHub Actions con lint (`ruff`) y tests (`pytest`)
 - `ROADMAP.md` con fases del proyecto
 - Test de humo inicial
+---
+
+Todas las versiones de este proyecto son mantenidas por el **Laboratorio de Ingeniería de la UIE Universidad Intercontinental de la Empresa**.
